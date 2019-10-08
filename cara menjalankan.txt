@@ -1,0 +1,34 @@
+Judul Mencari Silsilah
+
+Ket:
+#GET = (Variabel yang ingin di cari
+===================================================
+
+Untuk mencari Nama Orang Tua
+code:
+
+orangTua(#GET,X).
+----------------------------
+
+Untuk mencari Nama anak
+code:
+
+anak(#GET,X).
+----------------------------
+
+untuk mencari Nama Saudara
+code:
+
+saudara(#GET,X).
+----------------------------
+
+untuk mencari Nama Sepupu
+code:
+
+sepupu(#GET,X).
+----------------------------
+
+untuk mencari nama Kakek/Nenek
+code:
+
+bolang(#GET,X).
