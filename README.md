@@ -1,3 +1,4 @@
+![Gambar soal](https://github.com/faisal3578/Tugas-1-Mencari-Silsilah/blob/master/Soal.jpeg)
 # Proses
 ### orang tua, saya sudah meletakkan seluruh nama orang tua berada di sebelah kanan dari data base sehingga memunculkan seluruh nama di sebelah kanan adalah orang tua dan di sebelah kiri adalah anaknya
 
